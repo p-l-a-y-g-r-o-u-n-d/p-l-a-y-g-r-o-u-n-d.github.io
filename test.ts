@@ -1,1 +1,3 @@
-const test = {}
+export const testIT = () => {
+  console.log("test")
+}
